@@ -1,5 +1,5 @@
 # Informacje o projekcie
-
+System ekspercki ma na celu wspomaganie użytkowników w wyborze gry planszowej, system analizuje odpowiedzi użytkownika i sugeruje najbardziej odpowiednie tytuły.
 ## Autorzy
 - [Piotr Żurek L6]
 - [Mateusz Graja L6]
